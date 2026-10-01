@@ -1,0 +1,20 @@
+# Python Virtual Environment
+venv/
+.venv/
+
+# PyCharm Settings
+.idea/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Big Data and Logs
+*.xml
+*.csv
+*.gz
+*.log
+
+# Java / Maven Build Output
+target/
